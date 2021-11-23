@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://edk21.github.io/csb-rofh2/static/js/main.683a4ad9.chunk.js",
+    "main.js.map": "https://edk21.github.io/csb-rofh2/static/js/main.683a4ad9.chunk.js.map",
+    "runtime-main.js": "https://edk21.github.io/csb-rofh2/static/js/runtime-main.f3d8bbba.js",
+    "runtime-main.js.map": "https://edk21.github.io/csb-rofh2/static/js/runtime-main.f3d8bbba.js.map",
+    "static/js/2.259068d5.chunk.js": "https://edk21.github.io/csb-rofh2/static/js/2.259068d5.chunk.js",
+    "static/js/2.259068d5.chunk.js.map": "https://edk21.github.io/csb-rofh2/static/js/2.259068d5.chunk.js.map",
+    "index.html": "https://edk21.github.io/csb-rofh2/index.html",
+    "static/js/2.259068d5.chunk.js.LICENSE.txt": "https://edk21.github.io/csb-rofh2/static/js/2.259068d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3d8bbba.js",
+    "static/js/2.259068d5.chunk.js",
+    "static/js/main.683a4ad9.chunk.js"
+  ]
+}
